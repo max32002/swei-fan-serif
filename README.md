@@ -38,8 +38,8 @@
 ```
 @font-face {
   font-family: SweiFanSerifCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-serif@2.0/WebFont/CJK%20TC/SweiFanSerifCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-serif@2.0/WebFont/CJK%20TC/SweiFanSerifCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-serif@1.1/WebFont/CJK%20TC/SweiFanSerifCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-fan-serif@1.1/WebFont/CJK%20TC/SweiFanSerifCJKtc-Regular.woff) format("woff");
 }
 ```
 
